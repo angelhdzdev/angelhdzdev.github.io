@@ -4,7 +4,7 @@ export default {
     <q-header>
         <q-toolbar>
         <q-toolbar-title>
-        Angel Hdz Dev - Home 
+        Home - Angel Hdz Dev
         </q-toolbar-title>
         </q-toolbar> 
     </q-header>
