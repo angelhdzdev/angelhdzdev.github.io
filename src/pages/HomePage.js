@@ -6,7 +6,7 @@ export default {
         <q-toolbar-title>
         Angel Hdz Dev - Home 
         </q-toolbar-title>
-        </q-toolbar>
+        </q-toolbar> 
     </q-header>
     <q-page-container class="window-width window-height column items-center justify-center">
     <span class="text-h6">Welcome to Angel Hdz Dev.</span>
