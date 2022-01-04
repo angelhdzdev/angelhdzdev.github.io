@@ -4,7 +4,7 @@ export default {
     <q-header>
         <q-toolbar>
         <q-toolbar-title>
-        My App v0.0.1
+        Home 
         </q-toolbar-title>
         </q-toolbar>
     </q-header>
