@@ -8,7 +8,7 @@ export default {
         </q-toolbar-title>
         </q-toolbar> 
     </q-header>
-    <q-page-container class="window-width window-height column items-center justify-center">
+    <q-page-container class="window-width window-height column q-gutter-md items-center justify-center">
     <span class="text-h6">Welcome to Angel Hdz Multimedia.</span>
     <span class="text-h4">Site under construction.</span>
     <q-btn @click="$q.notify({message: 'Click'})" color="negative" label="Click Me"></q-btn>
