@@ -4,4 +4,5 @@ import HomePage from './pages/HomePage'
 
 
 const app = Vue.createApp(HomePage)
+app.use(Quasar, {config:{}})
 app.mount('#app')
